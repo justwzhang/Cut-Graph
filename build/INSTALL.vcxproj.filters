@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\justw\Desktop\CS hw\CS 528 Graphics\Given stuff\Assignment 1\build\CMakeFiles\363c8ff991427719bd1dcb461666308b\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5487D8E5-FACB-3ABB-80C3-A1655D13345F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

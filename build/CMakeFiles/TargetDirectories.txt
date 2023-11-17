@@ -1,0 +1,6 @@
+C:/Users/justw/Desktop/CS hw/CS 528 Graphics/Given stuff/Assignment 1/build/CMakeFiles/INSTALL.dir
+C:/Users/justw/Desktop/CS hw/CS 528 Graphics/Given stuff/Assignment 1/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/justw/Desktop/CS hw/CS 528 Graphics/Given stuff/Assignment 1/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/justw/Desktop/CS hw/CS 528 Graphics/Given stuff/Assignment 1/build/cutgraph/CMakeFiles/CutGraph.dir
+C:/Users/justw/Desktop/CS hw/CS 528 Graphics/Given stuff/Assignment 1/build/cutgraph/CMakeFiles/INSTALL.dir
+C:/Users/justw/Desktop/CS hw/CS 528 Graphics/Given stuff/Assignment 1/build/cutgraph/CMakeFiles/ALL_BUILD.dir

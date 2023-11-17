@@ -1,0 +1,10 @@
+^C:\USERS\JUSTW\DESKTOP\CS HW\CS 528 GRAPHICS\GIVEN STUFF\ASSIGNMENT 1\CUTGRAPH\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/justw/Desktop/CS hw/CS 528 Graphics/Given stuff/Assignment 1" "-BC:/Users/justw/Desktop/CS hw/CS 528 Graphics/Given stuff/Assignment 1/build" --check-stamp-file "C:/Users/justw/Desktop/CS hw/CS 528 Graphics/Given stuff/Assignment 1/build/cutgraph/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
